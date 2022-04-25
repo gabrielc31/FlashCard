@@ -16,7 +16,7 @@ Devido ao meu descontentamento com o resultado final do projeto original decidi,
 
 PHP/CSS/SASS/Bootstrap/MySql
 
-# Tecnologias Deste Projeto 
+# Tecnologias Deste Projeto (???)
 React JS/Bootstrap/CSS/...
 ______________________________________________________________________________________
 
@@ -35,12 +35,12 @@ The article can be found at: https://repositorio.ifsc.edu.br/handle/123456789/24
 
 Due to my dissatisfaction with the final result of the original project, I decided, on my own, to recreate the project in order to study programming and follow good programming practices.
 
-# Technologies Before
+# Technologies Before 
 
 PHP/CSS/SASS/Bootstrap/MySql
 
 
-# Technologies After
+# Technologies After (???)
 React JS/Bootstrap/CSS/...
 
 .
